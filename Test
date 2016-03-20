@@ -1,0 +1,16 @@
+let sin = 30
+let a = sin 
+rect ( ( sin sin ) , sin , sin , a )
+translate ( scale ( rotate ( sector ( 0 , 90 , 10 , 90 , 200 ) , 360 ) , 10 ) , 3 , 4 )
+translate ( scale ( rotate ( sector ( 13 , 15 , 67 , 0 , 90 ) , 90 ) , 5 ) , 3 , 4 )
+translate ( scale ( rotate ( sector ( 0 , 0 , 10 , 1 , 89  ) , 360 ) , 10 ) , 3 , 4 )
+scale ( rotate ( sector ( 19 , 20 , 80 , 89 , 120 ) , 29 ) , 9 )
+rotate ( ngon ( 21 , 34 , 60 , 10 ) , 40 )
+translate ( rotate ( ngon ( 21 , 34 , 90 , 3 ) , 27 ) , 4 , 3 )
+let let = 10
+let let = ( ( let + let ) + let )
+let for = 10
+let sin = ( 60 + let )
+line ( sin , sin , ( sin ( sin  let ) ) , let )
+let let = ( 10 + let )
+line ( (let + sin ) , a , ( a + sin ) , for )
